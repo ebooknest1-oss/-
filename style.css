@@ -1,0 +1,35 @@
+body {
+  font-family: "Tajawal", sans-serif;
+  text-align: center;
+  background: #f9f9f9;
+  direction: rtl;
+}
+
+.logo {
+  width: 120px;
+  margin: 20px auto;
+  display: block;
+}
+
+.container {
+  background: white;
+  width: 90%;
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+button {
+  background: #6c63ff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
